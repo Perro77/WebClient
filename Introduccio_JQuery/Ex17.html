@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex17</title>
+    <script src="jquery-3.5.1.js"></script>
+</head>
+<body>
+
+<form action="#">
+    <input type="text">
+</form>
+
+<script>
+
+    var x = $(document);
+    x.ready(initEvent);
+
+    function initEvent(){
+        x = $("input");
+        x.focus();
+        x.blur(function (){
+            alert("Posa algo crack");
+        })
+    }
+
+</script>
+
+</body>
+</html>

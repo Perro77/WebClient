@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex13</title>
+    <script src="jquery-3.5.1.js"></script>
+    <style>
+        #cursor{
+            height: 200px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="cursor" border="1">
+    <a id="posar"></a><br>
+    <a id="x"></a>
+    <a id="y"></a>
+</div>
+
+<script>
+    var x = $(document);
+    x.ready(initEvents);
+
+
+    function initEvents(){
+        x = $("#cursor");
+        x.mousemove(dirOnEs);
+        x.mouseleave(noHiEs);
+    }
+
+
+    function dirOnEs(){
+        $("#posar").text("Esta dins el div");
+        x = $("#x");
+        x.text("x: "+event.clientX);
+        x = $("#y");
+        x.text("y: "+ event.clientY);
+    }
+
+    function noHiEs(){
+        x = $("#posar");
+        x.text("No hi es");
+    }
+</script>
+
+</body>
+</html>

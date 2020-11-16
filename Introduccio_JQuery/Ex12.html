@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex12</title>
+    <script src="jquery-3.5.1.js"></script>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td>Hola</td>
+        <td>Hola</td>
+    </tr>
+    <tr>
+        <td>Hola</td>
+        <td>Hola</td>
+    </tr>
+</table>
+
+<script>
+
+    var x = $(document);
+    x.ready(initEvents);
+
+
+    function initEvents(){
+        x = $("td");
+        x.hover(pintar,despintar);
+    }
+
+
+
+    function pintar(){
+        $(this).css("background-color","#ff0000");
+    }
+
+    function despintar(){
+        $(this).css("background-color","#ffffff");
+    }
+
+</script>
+
+</body>
+</html>

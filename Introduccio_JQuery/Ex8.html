@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex8</title>
+    <script src="jquery-3.5.1.js"></script>
+    <style>
+        .primer{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <td>hola</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>hola</td>
+        </tr>
+    </tbody>
+</table>
+
+<button id="b1">Primer</button>
+<button id="b2">Segon</button>
+
+<script>
+    $(document).ready(function (){
+        $("#b1").click(function (){
+            $("thead").addClass("primer");
+        });
+
+        $("#b2").click(function (){
+            $("thead").removeClass("primer");
+        });
+    });
+</script>
+</body>
+</html>

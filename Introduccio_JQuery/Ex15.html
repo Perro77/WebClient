@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex16</title>
+    <script src="jquery-3.5.1.js"></script>
+    <style>
+        div{
+            height: 700px;
+            width: 800px;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+
+<div id="cosa"></div>
+
+<script>
+    var x = $(document);
+    x.ready(initEvents);
+
+
+    function initEvents(){
+        x = $("#cosa");
+        x.dblclick(canviar);
+    }
+
+    function canviar(){
+        x.css("height","250px");
+        x.css("width","250px");
+        x.dblclick(tornar);
+    }
+
+    function tornar(){
+        x.css("height","700px");
+        x.css("width","800px");
+    }
+</script>
+
+</body>
+</html>

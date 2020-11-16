@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex5</title>
+    <script src="jquery-3.5.1.js"></script>
+</head>
+<body>
+<h1>
+    <p>Text</p>
+</h1>
+<h1>
+    <p>Text</p>
+</h1>
+<h1>
+    <p>Text</p>
+</h1>
+<h1>
+    <p>Text</p>
+</h1>
+<h1>
+    <p>Text</p>
+</h1>
+
+<form>
+    <input type="button" value="10px" onclick="petit()">
+    <input type="button" value="15px" onclick="mitja()">
+    <input type="button" value="20px" onclick="gran()">
+</form>
+
+
+<script>
+    var x = $(document).ready();
+
+    function petit(){
+        x = $("p").css("fontSize","10px");
+    }
+
+    function mitja(){
+        x = $("p").css("fontSize","15px");
+    }
+
+
+    function gran(){
+        x = $("p").css("fontSize","20px");
+    }
+</script>
+</body>
+</html>

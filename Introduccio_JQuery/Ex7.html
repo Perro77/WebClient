@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ex7</title>
+    <script src="jquery-3.5.1.js"></script>
+</head>
+<body>
+<a href="#">Link</a>
+<br>
+
+<button id="b1">Primer</button>
+<button id="b2">Segon</button>
+<button id="b3">Tercer</button>
+
+<script>
+    $(document).ready(function (){
+        $("#b1").click(function (){
+            $("a").attr("href","google.com");
+        });
+
+        $("#b2").click(function (){
+            $("a").attr("href","instagram.com");
+        });
+
+        $("#b3").click(function (){
+            $("a").attr("href","yahoo.com");
+        });
+    });
+</script>
+</body>
+</html>

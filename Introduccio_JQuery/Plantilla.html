@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JQuery template</title>
+    <script src="jquery-3.5.1.js"></script>
+</head>
+<body>
+<p id="p1" class="pa">Hola</p>
+<p id="p2" class="pb">Que tal?</p>
+<button>Button</button>
+
+<script>
+    $(document).ready(function(){
+        $("button").click(function(){
+            $(".pb").hide();
+        });
+
+        $("p").click(function(){
+            $(this).hide();
+        });
+    });
+</script>
+
+</body>
+</html>
