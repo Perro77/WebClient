@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemple</title>
+    <script src="jquery-3.5.1.js"></script>
+    <style>
+        #menu{
+            display: none; background-color: greenyellow;
+        }
+    </style>
+</head>
+<body>
+
+<div id="menu">
+    <p id="p1" class="a">Paragraph 1</p>
+    <p id="p2" class="a">Paragraph 2</p>
+    <p id="p3" class="b">Paragraph 3</p>
+    <p id="p4" class="b">Paragraph 4</p>
+    <p id="p5" class="b">Paragraph 5</p>
+</div>
+
+<button id="b1">Slide Down</button>
+<button id="b2">Slide Up</button>
+<button id="b3">10 Slide toggle</button>
+
+<script>
+
+
+
+    $(document).ready(function (){
+        $("#b1").click(function (){
+            $("#menu").slideDown("slow",);
+            });
+
+
+        $("#b2").click(function (){
+            $("#menu").slideUp(10000);
+        });
+
+        $("#b3").click(function (){
+            $("#menu").slideToggle(10000);
+        });
+    });
+
+    // function imprimerix(){
+    //     console.log("FAST")
+    // }
+
+</script>
+
+</body>
+</html>
