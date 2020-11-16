@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fca3ba-4954-4034-b999-5afd7c91866f" name="Default Changelist" comment="JQuwry">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.Ex5.html">
@@ -69,7 +69,7 @@
       <updated>1601909737057</updated>
       <workItem from="1601909738264" duration="7277000" />
       <workItem from="1602095817445" duration="937000" />
-      <workItem from="1605512385436" duration="338000" />
+      <workItem from="1605512385436" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="JQuwry">
       <created>1605512639133</created>
@@ -85,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605512702583</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JQuwry">
+      <created>1605512839369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605512839369</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JQuwry">
+      <created>1605513014719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605513014719</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,26 +121,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="JQuwry" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="236" key="#Notifications" timestamp="1601916708524">
+    <state x="522" y="236" key="#Notifications" timestamp="1605513214265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="236" key="#Notifications/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601916708524" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601917145111">
+    <state x="522" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605513214265" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605513298673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601917145111" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605513298673" />
     <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1601910734941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601910734941" />
-    <state x="644" y="310" key="Github.ShareDialog" timestamp="1601916856120">
+    <state x="644" y="310" key="Github.ShareDialog" timestamp="1605512882668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="310" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601916856120" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1601917428760">
+    <state x="644" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605512882668" />
+    <state x="547" y="52" key="SettingsEditor" timestamp="1605513487228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601917428760" />
+    <state x="547" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605513487228" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605513061747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605513061747" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605513174021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605513174021" />
+    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605513512450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605513512450" />
     <state x="554" y="278" key="svn4idea.export.options" timestamp="1601910888329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
