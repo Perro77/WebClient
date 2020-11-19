@@ -6,6 +6,31 @@
     <script src="jquery-3.5.1.js"></script>
 </head>
 <body>
+<input type="button" value="Posar Text" id="posar">
 
+
+
+<script>
+    var x = $(document);
+    x.ready(initEvent);
+
+
+    function initEvent(){
+        x = $("#posar");
+        x.click(create);
+        x = $(":button");
+        x.click(borrar);
+
+    }
+
+
+    function create(){
+        $("body").append("<div><input type='text'><input type='button' value='remove'></div>");
+    }
+
+    function borrar(){
+        $(this).parent().remove();
+    }
+</script>
 </body>
 </html>
