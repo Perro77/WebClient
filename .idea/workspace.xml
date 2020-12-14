@@ -1,39 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fca3ba-4954-4034-b999-5afd7c91866f" name="Default Changelist" comment="JS">
-      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex19.html" afterDir="false" />
+    <list default="true" id="a6fca3ba-4954-4034-b999-5afd7c91866f" name="Default Changelist" comment="tot">
+      <change afterPath="$PROJECT_DIR$/AJAX/Exemple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boostrap_JS/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/BlackFriday/Categoria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act10JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act11JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act12JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act13Js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act14JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act14JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act15JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act16JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act16JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act17JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act17JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act18JSf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act19JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act1JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act20JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act20JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act20JSc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act21JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act22JSa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act22JSb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act22JSc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act22JSd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act23JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act24JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act25JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act26JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act27JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act28JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act29JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act2JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act30JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act3JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act4JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act5JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act6JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act7JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act8JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduccio_JS/act9JS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/carroceries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/llista.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/marques.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/models.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/selects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/taula.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduccio_JQuery/Ex18.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JQuery/Ex19.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduccio_JQuery/Ex19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Ex1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Ex2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Ex3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Ex4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Ex5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccio_JS/Taula.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,19 +111,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iSnCmWHHsgiuITUgRQ6FD7qMDK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Perro\Desktop\WebClient\Introduccio_JQuery" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Ex5.html">
     <configuration name="Ex4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Client_Web/Introduccio_JS/Ex4.html" useBuiltInWebServerPort="true">
@@ -103,6 +163,17 @@
       <workItem from="1602095817445" duration="937000" />
       <workItem from="1605512385436" duration="7908000" />
       <workItem from="1605728279273" duration="49000" />
+      <workItem from="1605772362653" duration="3044000" />
+      <workItem from="1605776456946" duration="1189000" />
+      <workItem from="1606116383119" duration="2033000" />
+      <workItem from="1606984877916" duration="1407000" />
+      <workItem from="1606987603756" duration="73000" />
+      <workItem from="1607178982240" duration="2000" />
+      <workItem from="1607498729595" duration="8000" />
+      <workItem from="1607586889442" duration="2577000" />
+      <workItem from="1607685954516" duration="12000" />
+      <workItem from="1607894791560" duration="5516000" />
+      <workItem from="1607907606244" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="JQuwry">
       <created>1605512639133</created>
@@ -153,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605514128626</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JS">
+      <created>1605772531443</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605772531443</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,9 +240,10 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="1">
           <value>
             <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -174,11 +253,28 @@
                       </list>
                     </value>
                   </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Perro/Desktop/WebClient/Introduccio_JS/ActivitatsJS" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -209,6 +305,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="JQuwry" />
     <MESSAGE value="JS" />
     <option name="LAST_COMMIT_MESSAGE" value="JS" />
@@ -223,11 +320,19 @@
     </state>
     <state x="522" y="236" key="#Notifications/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601916708524" />
     <state x="522" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605513214265" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605513298673">
+    <state x="1147" y="166" key="#PHP" timestamp="1607908217704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1147" y="166" key="#PHP/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607908217704" />
+    <state x="529" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606117078929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606117078929" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606118815986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601917145111" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605513298673" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606118815986" />
     <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1601910734941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -237,27 +342,32 @@
     </state>
     <state x="644" y="310" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601916856120" />
     <state x="644" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605512882668" />
+    <state x="1235" y="428" key="NewPhpFileDialog" timestamp="1607908029651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1606987630546" />
+    <state x="1235" y="428" key="NewPhpFileDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607908029651" />
     <state x="595" y="133" key="RollbackChangesDialog" timestamp="1605516123884">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="595" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605516123884" />
-    <state x="547" y="52" key="SettingsEditor" timestamp="1605513487228">
+    <state x="547" y="52" key="SettingsEditor" timestamp="1605772598361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601917428760" />
-    <state x="547" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605513487228" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605515093222">
+    <state x="547" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605772598361" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605772748051">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605515093222" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605772748051" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605513174021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605513174021" />
-    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605513512450">
+    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605772609741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605513512450" />
+    <state x="929" y="297" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605772609741" />
     <state x="554" y="278" key="svn4idea.export.options" timestamp="1601910888329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

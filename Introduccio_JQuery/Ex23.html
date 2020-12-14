@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+</head>
+<body>
+
+<div id="div1">
+  <p>Paragraph 01.</p>
+  <p>Paragraph 02.</p>
+  <p>Paragraph 03.</p>
+</div>
+
+
+<script>
+  var x;
+  x=$(document);
+  x.ready(initEvents);
+
+  function initEvents() {
+    var x;
+    x=$("#div1 p");
+    x.each(highlightParagraphs);
+  }
+
+  function highlightParagraphs() {
+    var x=$(this);
+    if (x.text().length<100) {
+      x.css("background-color","#ff0");
+    }
+  }
+</script>
+</body>
+</html>
